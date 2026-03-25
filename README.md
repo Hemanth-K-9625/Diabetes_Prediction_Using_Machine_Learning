@@ -109,11 +109,15 @@ Run all cells to reproduce the results.
 ---
 ## Future Improvements
 
-Deploy as a web application using Flask / FastAPI
-Add real-time user input prediction system
-Implement advanced models (XGBoost, Neural Networks)
-Integrate explainable AI techniques (SHAP, LIME)
-Improve dataset with more diverse real-world data
+-Deploy as a web application using Flask / FastAPI
+
+-Add real-time user input prediction system
+
+-Implement advanced models (XGBoost, Neural Networks)
+
+-Integrate explainable AI techniques (SHAP, LIME)
+
+-Improve dataset with more diverse real-world data
 
 ---
 
