@@ -122,5 +122,6 @@ Run all cells to reproduce the results.
 ---
 
 ## Author
-Hemanth Kumar
+Hemanth Kumar K
+
 Computer Science Student interested in Data Science and Machine Learning.
